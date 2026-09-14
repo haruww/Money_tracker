@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftar_kategori">
+        <item>HP</item>
+        <item>laptop</item>
+        <item>IEM</item>
+    </string-array>
+
+</resources>
